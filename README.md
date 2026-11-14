@@ -21,3 +21,5 @@ docker-compose up --build
 ```
 
 Застосунок: http://localhost:8000 → кнопка «Перевірити БД» → `Welcome to FastAPI!`
+
+![Перевірка БД](screenshot.png)
